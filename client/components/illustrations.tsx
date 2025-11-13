@@ -10,11 +10,7 @@
     <div>
       <h1>Illustrations</h1>
       <div>
-        <img
-          src="/public/art/blotplotart.png"
-          alt="Blot plot Commission"
-          // style="width: auto; max-width: 100%"
-        />
+        <img src="/public/art/blotplotart.png" alt="Blot plot Commission" />
       </div>
     </div>
   </body>

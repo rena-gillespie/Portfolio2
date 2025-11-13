@@ -1,0 +1,33 @@
+.body2 {
+  min-height: 100%;
+  position: relative;
+  height: auto;
+  padding-bottom: 70px;
+}
+
+.links {
+  border-radius: 10px;
+  padding: 7px;
+  word-spacing: 5px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.navButtons {
+  border: 2px solid #fdb6ab;
+  border-radius: 5px;
+  padding: 2.5px;
+  width: 10;
+  height: 10;
+  margin-left: 5px;
+}
+
+.navButtons:hover {
+  background-color: #ff9500;
+}
+
+
+img {
+  width: 100%;
+  height: auto;
+}
